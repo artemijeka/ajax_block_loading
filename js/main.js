@@ -1,4 +1,4 @@
-/* Технология AJAX */
+/* Постепенная подгрузка блоков из файла | Gradual loading of blocks from a file */
 
 $(function() {
 	var sectionHeight = $('#section-1').height();
