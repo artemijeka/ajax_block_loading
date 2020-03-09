@@ -1,4 +1,4 @@
-/* Постепенная подгрузка блоков из файла | Gradual loading of blocks from a file */
+/* Постепенная подгрузка (jquery ajax) блоков из файла | Gradual loading (jquery ajax) of blocks from a file */
 
 $(function() {
 	var sectionHeight = $('#section-1').height();
